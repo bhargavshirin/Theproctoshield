@@ -1,5 +1,5 @@
 # ProctoShield
-*A cutting-edge AI-powered proctoring solution.*
+*A cutting-edge AI-powered Examination proctoring solution.*
 
 ## Overview
 
